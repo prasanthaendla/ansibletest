@@ -1,1 +1,2 @@
+cd my_ansible_working_dir/
 ansible all -m ping 
